@@ -10,7 +10,7 @@
 ![](https://img.shields.io/badge/Ruby-red)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Github-black)
 
 
-### To get this project up and running, you should do the following;
+### To get this project up and running, you should do the following:
 - If you wish to run the project locally, please do the following:
 
 - Clone the repository to your local machine.
@@ -30,6 +30,12 @@
 - GitHub: [@RitobrotoMukherjee](https://github.com/RitobrotoMukherjee)
 - Twitter: [@RitobrotoM3](https://twitter.com/RitobrotoM3)
 - LinkedIn: [Ritobroto Mukherjee](https://www.linkedin.com/in/ritobroto-mukherjee-519148ba/)
+
+👤 **Kiprotich Kimutai**
+
+- GitHub: [@Kimutai01](https://github.com/Kimutai01)
+- Twitter: [@Kimutai_01](https://twitter.com/Kimutai_01?s=09)
+- LinkedIn: [@kiprotichkimutai](https://www.linkedin.com/m/in/kimutai-kiprotich-1b5045216)
 
 ## 🤝 Contributing
 
