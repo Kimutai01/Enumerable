@@ -1,56 +1,35 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+![](https://img.shields.io/badge/Kiprotich-kimutai-yellow?labelColor=blue)&nbsp;![](https://img.shields.io/badge/Ritobroto-Mukherjee-yellow?labelColor=blue)
 
-# Project Name
+# Create Enumerable
 
-> Description the project.
+> In this project we used Ruby to re-create a few of it's in-built Enumerable. We will be following **Gitflow** here. It's a pair programming project. It has proper error handling as mentioned in the [documentation](https://ruby-doc.org/core-3.0.0/Enumerable.html).
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
+![](https://img.shields.io/badge/Ruby-red)&nbsp;&nbsp;&nbsp;![](https://img.shields.io/badge/Github-black)
 
 
-## Getting Started
+### To get this project up and running, you should do the following;
+- If you wish to run the project locally, please do the following:
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Clone the repository to your local machine.
+    - **`git clone https://github.com/Kimutai01/Enumerable.git`**
+    - **`cd Enumerable`**
 
+## Prerequisite
 
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+> ### Ruby needs to be installed in system
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Ritobroto Mukherjee**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Portfolio: [@Rito](https://ritobrotomukherjee.github.io/Work-Portfolio/)
+- GitHub: [@RitobrotoMukherjee](https://github.com/RitobrotoMukherjee)
+- Twitter: [@RitobrotoM3](https://twitter.com/RitobrotoM3)
+- LinkedIn: [Ritobroto Mukherjee](https://www.linkedin.com/in/ritobroto-mukherjee-519148ba/)
 
 ## 🤝 Contributing
 
@@ -64,9 +43,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
 ## 📝 License
 
