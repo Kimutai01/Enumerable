@@ -8,5 +8,14 @@ puts(list.all? { |e| e < 5 })
 puts(list.all? { |e| e > 5 })
 # false
 puts("\n--No Block error for all?--")
-puts(list.all?)
+puts (list.all?)
+# 'No blocks given'
+
+puts("\n--Testing any?--")
+puts (list.any? {|e| e == 2})
+# true
+puts(list.any? {|e| e == 5})
+# false
+puts("\n--No Block error for any?--")
+puts (list.any?)
 # 'No blocks given'
