@@ -8,14 +8,20 @@ puts(list.all? { |e| e < 5 })
 puts(list.all? { |e| e > 5 })
 # false
 puts("\n--No Block error for all?--")
-puts (list.all?)
+puts(list.all?)
 # 'No blocks given'
 
 puts("\n--Testing any?--")
-puts (list.any? {|e| e == 2})
+puts(list.any? { |e| e == 2 })
 # true
-puts(list.any? {|e| e == 5})
+puts(list.any? { |e| e == 5 })
 # false
 puts("\n--No Block error for any?--")
-puts (list.any?)
+puts(list.any?)
 # 'No blocks given'
+
+puts("\n--Testing filter--")
+p list.filter(&:even?)
+# [2, 4]
+puts("\n--No Block error for filter--")
+p list.filter
